@@ -1,5 +1,5 @@
 name: serializable_bloom_filter
-description: Simple and efficient implementation of bloom filters.
+description: Simple, efficient, and serializable implementation of bloom filters.
 version: 1.0.0
 repository: https://github.com/FlutterFlow/serializable_bloom_filter
 
